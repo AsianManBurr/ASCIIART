@@ -7,22 +7,33 @@ public class Main {
         System.out.printf("Hello and welcome!");
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
-        for (int i = 1; i <= 5; i++) {
+
 
             // Press Shift+F9 to start debugging your code. We have set one breakpoint
             // for you, but you can always add more by pressing Ctrl+F8.
-            System.out.println("/ " + i);
-            System.out.println("          /\\  \\|/  /\\");
-            System.out.println("          |\\\\_;=._//|");
-            System.out.println("           \\.\"   \"./\\");
-            System.out.println("           //^\\ /^\\\\");
-            System.out.println("    .'``\",/ |0| |0| \\,\"``'.");
-            System.out.println("   /   ,  `'\\.---./'`  ,   \\");
-            System.out.println("  /`  /`\\,.\"(     )\".,/`\\  `\\");
-            System.out.println("  /`     ( '.'-.-'.' )     `\\");
-            System.out.println("  /\"`     \"._  :  _.\"     `\"\\");
-            System.out.println("   `/.'`\"=.,_``=``_,.=\"`'.\\`");
-            System.out.println("")
-        }
+            System.out.println("               /|         ,");
+            System.out.println("              ,///        /|");
+            System.out.println("             // //     ,///");
+            System.out.println("            // //     // //");
+            System.out.println("           // //     || ||");
+            System.out.println("           || ||    // //");
+            System.out.println("           || ||   // //");
+            System.out.println("           || ||  // //");
+            System.out.println("           || || || ||");
+            System.out.println("           \\\\,\\|,|\\_//");
+            System.out.println("            \\\\)\\)\\\\|/");
+            System.out.println("            )-.\"\" .-(");
+            System.out.println("           //^\\` `/^\\\\");
+            System.out.println("          //  |   |  \\\\");
+            System.out.println("        ,/_| 0| _ | 0|_\\,");
+            System.out.println("      /`    `\"=.v.=\"`    `\\");
+            System.out.println("     /`    _.\"{_,_}\"._    `\\");
+            System.out.println("     `/`  ` \\  |||  / `  `\\`");
+            System.out.println("      `\",_  \\\\=^~^=//  _,\"`");
+            System.out.println("          \"=,\\'-=-'/,=\"");
+            System.out.println("              '---'");
+
+
+
     }
 }
